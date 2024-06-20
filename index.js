@@ -94,7 +94,7 @@ WT ${WT}
 
 const main = () => {
   let script = `
-    ${START_BLOCK}
+${START_BLOCK}
     
     `;
 };
